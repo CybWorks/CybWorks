@@ -44,22 +44,22 @@ La verification d'égalité peux aussi être utilisé pour comparé des pseudos 
 ### Exemples
 Pour vous aider à débuter avec **MeteorScript**, nous avons inclus une liste de quelques exemples d'utilisation ci-dessous:
 
-- **Exemple 1**: Déplacer un joueur vers la position (3, 5) en utilisant la fonction "moveto":
+- **Exemple 1**: Déplacer un joueur vers la position (3, 5) en utilisant la fonction "moveto":  
     moveto 3 5
 
-- **Exemple 2**: Téléporter un joueur vers la position (3, 5, 10) en utilisant la fonction "warpto":
+- **Exemple 2**: Téléporter un joueur vers la position (3, 5, 10) en utilisant la fonction "warpto":  
     warpto 3 5 10
 
-- **Exemple 3**: Attribuer une valeur à une variable en utilisant la fonction "set":
+- **Exemple 3**: Attribuer une valeur à une variable en utilisant la fonction "set":  
     set var1 Hello world!
 
-- **Exemple 4**: Effectuer un calcul en utilisant la fonction "calc":
+- **Exemple 4**: Effectuer un calcul en utilisant la fonction "calc":   
     calc 2 + 2
 
-- **Exemple 5**: Vérifier l'égalité entre deux valeurs en utilisant la condition "=":
+- **Exemple 5**: Vérifier l'égalité entre deux valeurs en utilisant la condition "=":  
     2 = 2
 
-- **Exemple 6**: Vérifier l'infériorité entre une variable et un nombre de votre choix en utilisant la condition "<":
+- **Exemple 6**: Vérifier l'infériorité entre une variable et un nombre de votre choix en utilisant la condition "<":  
     var1 < 4
     
 **Il est important de vérifier que les syntaxes sont correctement utilisées pour éviter des erreurs dans votre code.**  
